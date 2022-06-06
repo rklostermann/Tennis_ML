@@ -1,7 +1,7 @@
 # Tennis_ML
 Machine Learning project to predict number of games in a tennis match.
 
-This is an academic project, my first ML project, to test how five distinct machine learning methods perform in predicting the number of games in a tennis match.
+This was part of an academic project, my first ML project, to test how five distinct machine learning methods perform in predicting the number of games in a tennis match.
 
 Files:
 
